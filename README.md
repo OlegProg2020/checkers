@@ -1,2 +1,2 @@
 # checkers
-C# + Windows Forms: game
+C# + Windows Forms game
